@@ -1,2 +1,7 @@
-# Create method `parrot` that outputs a given phrase and
-# returns the phrase
+def # parrot($stdout = "Squawk!")
+puts #{stdout}
+end
+
+phrase = parrot
+phrase ==> "Squawk!
+"
