@@ -1,7 +1,7 @@
 def parrot(phrase = "Squwak!")
   puts phrase
   return phrase
-  parrot ==
+  parrot ==> "Pretty bird!"
 end
 
 
